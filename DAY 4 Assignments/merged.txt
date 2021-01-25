@@ -1,0 +1,2 @@
+Items in file1 are these
+Items in file2 are these
